@@ -1,0 +1,25 @@
+{
+	"name": "try-deploy-nodejs-frasnym",
+	"version": "1.0.0",
+	"description": "Testing NodeJS Using Free Host",
+	"main": "index.js",
+	"scripts": {
+		"start": "node ./src/index.js",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/frasnym/Deploy-NodeJS.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/frasnym/Deploy-NodeJS/issues"
+	},
+	"homepage": "https://github.com/frasnym/Deploy-NodeJS#readme",
+	"dependencies": {
+		"dotenv": "^8.2.0",
+		"express": "^4.17.1"
+	}
+}
