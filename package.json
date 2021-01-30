@@ -1,5 +1,5 @@
 {
-	"name": "try-deploy-nodejs-frasnym",
+	"name": "frasnym-personal-node",
 	"version": "1.0.0",
 	"description": "Testing NodeJS Using Free Host",
 	"main": "index.js",
